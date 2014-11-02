@@ -54,3 +54,9 @@
 .reveal .attentionFont {
 	font-family: 'Londrina Sketch', cursive;
 }
+
+.inline {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 2em;
+}
