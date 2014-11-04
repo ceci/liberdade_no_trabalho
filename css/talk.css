@@ -13,6 +13,9 @@
 	vertical-align: middle;
 	margin-right: 2em;
 }
+.reveal .whoAmI h4 {
+	font-size: 1.5em;
+}
 
 .reveal .whoAmI a {
 	display: block;
@@ -38,6 +41,15 @@
 .reveal .negative {
 	color: #FF3333;
 }
+
+.reveal h4 {
+	text-align: left;
+	font-size: 3em;
+}
+.reveal .author {
+	text-align: right;
+}
+
 .reveal section img {
 	margin: 20px;
 }
@@ -53,6 +65,13 @@
 }
 .reveal .attentionFont {
 	font-family: 'Londrina Sketch', cursive;
+}
+.reveal .mythbusters {
+	font-family: 'Special Elite', cursive;
+	transform: rotate(-15deg);
+	font-weight: bold;
+	color: #F66;
+	font-size: 5em;
 }
 
 .inline {
