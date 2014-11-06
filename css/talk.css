@@ -62,6 +62,9 @@
 .reveal .author {
 	text-align: right;	
 }
+.reveal .lightBackground {
+	color: #000;
+}
 /* Fonts */
 .reveal .cursiveFont {
 	font-family: 'Dancing Script', cursive;
