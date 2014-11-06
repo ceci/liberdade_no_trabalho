@@ -59,6 +59,9 @@
 .reveal .bigger {
 	font-size: 3em;
 }
+.reveal .author {
+	text-align: right;	
+}
 /* Fonts */
 .reveal .cursiveFont {
 	font-family: 'Dancing Script', cursive;
