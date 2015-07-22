@@ -1,3 +1,14 @@
+#languageSwitch {
+	color: #fff;
+	cursor: pointer;
+	font-variant: small-caps;
+	position: absolute;
+		right: 1.5em;
+		top: 1em;
+	text-decoration: none;
+	z-index: 1;
+}
+
 .reveal .cover h1{
 	font-size: 6em;
 }
